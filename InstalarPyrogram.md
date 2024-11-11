@@ -1,4 +1,4 @@
-Claro! O `pyrotgfork` é uma versão modificada do Pyrogram, focada em fornecer funcionalidades relacionadas ao **Telegram**. Vou te guiar no passo a passo para instalar o `pyrotgfork` via `pip` na sua instância EC2.
+O `pyrotgfork` é uma versão modificada do Pyrogram, focada em fornecer funcionalidades relacionadas ao **Telegram**. Vou te guiar no passo a passo para instalar o `pyrotgfork` via `pip` na sua instância EC2.
 
 ### Passo 1: Conecte-se à sua instância EC2
 
